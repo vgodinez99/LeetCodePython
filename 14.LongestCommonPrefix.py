@@ -7,7 +7,7 @@ class Solution:
 
         for i in range(len(strs)):
             for j in strs[i]:
-                print(j)
+                
 
         
         return so
